@@ -2,7 +2,15 @@ package classesANDobjects;
 
 public class Constructors {
     public static void main(String[] args) {
-        Human2 human2 = new Human2(" what");
+
+        Human2 human2 = new Human2("Bob", 40);
+        human2.printAllPeople();
+        Human2 human1 = new Human2("Tom", 30);
+        human1.printAllPeople();
+        Human2 human3 = new Human2("Jack",25);
+        human3.printAllPeople();
+
+
 
     }
 }
@@ -10,21 +18,13 @@ public class Constructors {
 class Human2 {
     private String name;
     private int age;
+    private static int countPeople;
 
-    public Human2() {
-        System.out.println("Hello from default constructor!");
-    }
-
-    public Human2(String name) {
-        System.out.println("Hello from second constructor!");
-
-        this.name = name;
-    }
 
     public Human2(String name, int age) {
-        System.out.println("Hello from third constructor!");
         this.name = name;
         this.age = age;
+        countPeople++;
     }
 
     public void setName(String name) {
@@ -33,5 +33,14 @@ class Human2 {
 
     public void setAge(int age) {
         this.age = age;
+    }
+
+
+    public static void printAllFields() {
+        System.out.println();
+    }
+
+    public void printAllPeople() {
+        System.out.println("number of people " + countPeople);
     }
 }
