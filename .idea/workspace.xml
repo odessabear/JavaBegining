@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36ccdfaf-e4d7-4e9b-ae56-95736d51bc1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/classesANDobjects/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classesANDobjects/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classesANDobjects/Heritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classesANDobjects/ObjectToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/StringBuilderLesson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/strings/StringFormatting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -34,25 +27,25 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="31" />
+          <entry key="java" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="31" />
+          <entry key="JAVA" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4279" />
-          <entry key="txt" value="40" />
+          <entry key="java" value="4447" />
+          <entry key="txt" value="66" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4279" />
-          <entry key="PLAIN_TEXT" value="40" />
+          <entry key="JAVA" value="4447" />
+          <entry key="PLAIN_TEXT" value="66" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.mvc.usages" />
@@ -62,7 +55,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/classesANDobjects/ClassesAndObjects.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
@@ -79,13 +72,50 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/polymorphism/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/polymorphism/Animal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+              <folding>
+                <element signature="e#66#67#0" expanded="true" />
+                <element signature="e#102#103#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/polymorphism/Dog.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+              <folding>
+                <element signature="e#82#83#0" expanded="true" />
+                <element signature="e#118#119#0" expanded="true" />
+                <element signature="e#78#79#0" expanded="true" />
+                <element signature="e#114#115#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -124,6 +154,10 @@
         <option value="$PROJECT_DIR$/src/interfaces/Animal.java" />
         <option value="$PROJECT_DIR$/src/interfaces/Person.java" />
         <option value="$PROJECT_DIR$/src/interfaces/Test.java" />
+        <option value="$PROJECT_DIR$/src/Test.java" />
+        <option value="$PROJECT_DIR$/src/polymorphism/Animal.java" />
+        <option value="$PROJECT_DIR$/src/polymorphism/Test.java" />
+        <option value="$PROJECT_DIR$/src/polymorphism/Dog.java" />
       </list>
     </option>
   </component>
@@ -134,7 +168,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1926" />
+    <option name="x" value="1920" />
     <option name="y" value="14" />
     <option name="width" value="1680" />
     <option name="height" value="1014" />
@@ -1279,7 +1313,13 @@
               <item name="JavaBasic" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaBasic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="basics" type="462c0819:PsiDirectoryNode" />
+              <item name="classesANDobjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaBasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaBasic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="polymorphism" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1291,7 +1331,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534430672656" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534779469667" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -1307,7 +1347,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.Test (1)">
     <configuration name="Heritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="classesANDobjects.Heritance" />
       <module name="JavaBasic" />
@@ -1347,12 +1387,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringFormatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strings.StringFormatting" />
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polymorphism.Test" />
       <module name="JavaBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strings.*" />
+          <option name="PATTERN" value="polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1375,18 +1415,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.StringBuilderLesson" />
-      <item itemvalue="Application.StringFormatting" />
       <item itemvalue="Application.ObjectToString" />
       <item itemvalue="Application.Heritance" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Heritance" />
         <item itemvalue="Application.ObjectToString" />
         <item itemvalue="Application.StringBuilderLesson" />
-        <item itemvalue="Application.StringFormatting" />
       </list>
     </recent_temporary>
   </component>
@@ -1402,7 +1442,7 @@
       <updated>1533641772316</updated>
       <workItem from="1533641776946" duration="31831000" />
       <workItem from="1534254721770" duration="7817000" />
-      <workItem from="1534411631840" duration="6134000" />
+      <workItem from="1534411631840" duration="9643000" />
     </task>
     <task id="LOCAL-00001" summary="classes and objects lessons">
       <created>1533829070326</created>
@@ -1418,14 +1458,21 @@
       <option name="project" value="LOCAL" />
       <updated>1533916131997</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="classes and objects lessons? heritage and interfaces">
+      <created>1534434795185</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1534434795185</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45782000" />
+    <option name="totallyTimeSpent" value="49291000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1926" y="14" width="1680" height="1014" extended-state="0" />
+    <frame x="1920" y="14" width="1680" height="1014" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.258642" />
@@ -1467,7 +1514,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="classes and objects lessons" />
     <MESSAGE value="classes and objects lessons? static word" />
-    <option name="LAST_COMMIT_MESSAGE" value="classes and objects lessons? static word" />
+    <MESSAGE value="classes and objects lessons? heritage and interfaces" />
+    <option name="LAST_COMMIT_MESSAGE" value="classes and objects lessons? heritage and interfaces" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/out/production/JavaBasic/HelloWorld.class" />
@@ -1696,6 +1744,37 @@
             <element signature="e#1141#1142#0" expanded="true" />
             <element signature="e#1164#1165#0" expanded="true" />
             <element signature="e#1208#1209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/polymorphism/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+          <folding>
+            <element signature="e#66#67#0" expanded="true" />
+            <element signature="e#102#103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/polymorphism/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/polymorphism/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+          <folding>
+            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#78#79#0" expanded="true" />
+            <element signature="e#114#115#0" expanded="true" />
           </folding>
         </state>
       </provider>
