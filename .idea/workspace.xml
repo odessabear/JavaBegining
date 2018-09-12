@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36ccdfaf-e4d7-4e9b-ae56-95736d51bc1b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/equalsAndStrinPool/EqualsAndStringPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/innerClasses/Electrocar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/innerClasses/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,26 +30,26 @@
         <counts>
           <entry key="bin" value="1" />
           <entry key="class" value="1" />
-          <entry key="java" value="43" />
+          <entry key="java" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="43" />
+          <entry key="JAVA" value="46" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="5508" />
-          <entry key="txt" value="97" />
+          <entry key="java" value="5841" />
+          <entry key="txt" value="119" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5508" />
-          <entry key="PLAIN_TEXT" value="97" />
+          <entry key="JAVA" value="5841" />
+          <entry key="PLAIN_TEXT" value="119" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.mvc.usages" />
@@ -56,82 +59,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/people.bin">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/serialization/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="67">
-              <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
-              <folding>
-                <element signature="e#211#212#0" expanded="true" />
-                <element signature="e#236#237#0" expanded="true" />
-                <element signature="e#267#268#0" expanded="true" />
-                <element signature="e#294#295#0" expanded="true" />
-                <element signature="e#329#330#0" expanded="true" />
-                <element signature="e#368#369#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/serialization/WriteObject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" selection-start-line="13" selection-end-line="23" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/serialization/ReadObject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/serialization/ReadMassiveOfOjects.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="9" column="90" selection-start-line="9" selection-start-column="90" selection-end-line="9" selection-end-column="90" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/serialization/MassiveWriteObject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/basics/EqualsAndStringPool.java">
+        <entry file="file://$PROJECT_DIR$/src/innerClasses/Electrocar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+            <state relative-caret-position="186">
+              <caret line="26" column="8" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
               <folding>
-                <element signature="e#296#297#0" expanded="true" />
-                <element signature="e#323#324#0" expanded="true" />
+                <element signature="e#156#157#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+                <element signature="e#341#342#0" expanded="true" />
+                <element signature="e#100#101#0" expanded="true" />
+                <element signature="e#128#129#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/innerClasses/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -193,6 +142,8 @@
         <option value="$PROJECT_DIR$/src/serialization/ReadMassiveOfOjects.java" />
         <option value="$PROJECT_DIR$/src/serialization/MassiveWriteObject.java" />
         <option value="$PROJECT_DIR$/src/basics/EqualsAndStringPool.java" />
+        <option value="$PROJECT_DIR$/src/innerClasses/Test.java" />
+        <option value="$PROJECT_DIR$/src/innerClasses/Electrocar.java" />
       </list>
     </option>
   </component>
@@ -1341,14 +1292,7 @@
               <item name="JavaBasic" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaBasic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="basics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaBasic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaBasic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="basics" type="462c0819:PsiDirectoryNode" />
-              <item name="EqualsAndStringPool.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="innerClasses" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1362,7 +1306,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536767003752" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536768852602" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -1383,13 +1327,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EqualsAndStringPool">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="EqualsAndStringPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.EqualsAndStringPool" />
+      <option name="MAIN_CLASS_NAME" value="equalsAndStrinPool.EqualsAndStringPool" />
       <module name="JavaBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basics.*" />
+          <option name="PATTERN" value="equalsAndStrinPool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1436,12 +1380,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WriteObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="serialization.WriteObject" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="innerClasses.Test" />
       <module name="JavaBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="serialization.*" />
+          <option name="PATTERN" value="innerClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1450,19 +1394,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.WriteObject" />
       <item itemvalue="Application.ReadObject" />
       <item itemvalue="Application.MassiveWriteObject" />
       <item itemvalue="Application.ReadMassiveOfOjects" />
       <item itemvalue="Application.EqualsAndStringPool" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.EqualsAndStringPool" />
         <item itemvalue="Application.ReadMassiveOfOjects" />
         <item itemvalue="Application.MassiveWriteObject" />
         <item itemvalue="Application.ReadObject" />
-        <item itemvalue="Application.WriteObject" />
       </list>
     </recent_temporary>
   </component>
@@ -1480,7 +1424,7 @@
       <workItem from="1534254721770" duration="7817000" />
       <workItem from="1534411631840" duration="12708000" />
       <workItem from="1535019869795" duration="9988000" />
-      <workItem from="1536071685543" duration="10492000" />
+      <workItem from="1536071685543" duration="12300000" />
     </task>
     <task id="LOCAL-00001" summary="classes and objects lessons">
       <created>1533829070326</created>
@@ -1524,11 +1468,18 @@
       <option name="project" value="LOCAL" />
       <updated>1536656823163</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="equals and StringPool lesson">
+      <created>1536767077482</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1536767077482</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72836000" />
+    <option name="totallyTimeSpent" value="74644000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="14" width="1680" height="1014" extended-state="0" />
@@ -1576,7 +1527,8 @@
     <MESSAGE value="classes and objects lessons? heritage and interfaces" />
     <MESSAGE value="classes and objects lessons, polymorphism" />
     <MESSAGE value="serialize lesson" />
-    <option name="LAST_COMMIT_MESSAGE" value="serialize lesson" />
+    <MESSAGE value="equals and StringPool lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="equals and StringPool lesson" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/out/production/JavaBasic/HelloWorld.class" />
@@ -1814,33 +1766,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/serialization/Person.java">
+    <entry file="file://$PROJECT_DIR$/src/serialization/MassiveWriteObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
-          <folding>
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#368#369#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/serialization/WriteObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="23" selection-end-column="9" />
+        <state relative-caret-position="391">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/people.bin">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/serialization/ReadMassiveOfOjects.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1859,23 +1793,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/serialization/MassiveWriteObject.java">
+    <entry file="file://$PROJECT_DIR$/src/serialization/WriteObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="23" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/basics/EqualsAndStringPool.java">
+    <entry file="file://$PROJECT_DIR$/src/serialization/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        <state relative-caret-position="68">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
           <folding>
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/people.bin">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/equalsAndStrinPool/EqualsAndStringPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/innerClasses/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="62" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/innerClasses/Electrocar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="26" column="8" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
           </folding>
         </state>
       </provider>
