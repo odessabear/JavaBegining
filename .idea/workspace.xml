@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36ccdfaf-e4d7-4e9b-ae56-95736d51bc1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/people.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/serialization/MassiveWriteObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/serialization/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/serialization/ReadMassiveOfOjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/serialization/ReadObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/serialization/WriteObject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -33,26 +27,26 @@
         <counts>
           <entry key="bin" value="1" />
           <entry key="class" value="1" />
-          <entry key="java" value="42" />
+          <entry key="java" value="43" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="42" />
+          <entry key="JAVA" value="43" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="5307" />
-          <entry key="txt" value="81" />
+          <entry key="java" value="5508" />
+          <entry key="txt" value="97" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5307" />
-          <entry key="PLAIN_TEXT" value="81" />
+          <entry key="JAVA" value="5508" />
+          <entry key="PLAIN_TEXT" value="97" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.mvc.usages" />
@@ -88,7 +82,7 @@
         <entry file="file://$PROJECT_DIR$/src/serialization/WriteObject.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="23" selection-end-column="9" />
+              <caret line="13" selection-start-line="13" selection-end-line="23" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,7 +94,7 @@
         <entry file="file://$PROJECT_DIR$/src/serialization/ReadObject.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+              <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -117,13 +111,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/serialization/MassiveWriteObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="92" selection-start-line="10" selection-start-column="92" selection-end-line="10" selection-end-column="92" />
+            <state relative-caret-position="391">
+              <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/basics/EqualsAndStringPool.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+              <folding>
+                <element signature="e#296#297#0" expanded="true" />
+                <element signature="e#323#324#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -185,6 +192,7 @@
         <option value="$PROJECT_DIR$/src/serialization/ReadObject.java" />
         <option value="$PROJECT_DIR$/src/serialization/ReadMassiveOfOjects.java" />
         <option value="$PROJECT_DIR$/src/serialization/MassiveWriteObject.java" />
+        <option value="$PROJECT_DIR$/src/basics/EqualsAndStringPool.java" />
       </list>
     </option>
   </component>
@@ -1333,7 +1341,14 @@
               <item name="JavaBasic" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaBasic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="serialization" type="462c0819:PsiDirectoryNode" />
+              <item name="basics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaBasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaBasic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="basics" type="462c0819:PsiDirectoryNode" />
+              <item name="EqualsAndStringPool.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -1347,7 +1362,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536656628155" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536767003752" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -1368,13 +1383,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReadMassiveOfOjects">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wackocourse.hello.HelloWorld" />
+  <component name="RunManager" selected="Application.EqualsAndStringPool">
+    <configuration name="EqualsAndStringPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basics.EqualsAndStringPool" />
       <module name="JavaBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="wackocourse.hello.*" />
+          <option name="PATTERN" value="basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1435,19 +1450,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HelloWorld" />
       <item itemvalue="Application.WriteObject" />
       <item itemvalue="Application.ReadObject" />
       <item itemvalue="Application.MassiveWriteObject" />
       <item itemvalue="Application.ReadMassiveOfOjects" />
+      <item itemvalue="Application.EqualsAndStringPool" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EqualsAndStringPool" />
         <item itemvalue="Application.ReadMassiveOfOjects" />
         <item itemvalue="Application.MassiveWriteObject" />
         <item itemvalue="Application.ReadObject" />
         <item itemvalue="Application.WriteObject" />
-        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -1465,7 +1480,7 @@
       <workItem from="1534254721770" duration="7817000" />
       <workItem from="1534411631840" duration="12708000" />
       <workItem from="1535019869795" duration="9988000" />
-      <workItem from="1536071685543" duration="7520000" />
+      <workItem from="1536071685543" duration="10492000" />
     </task>
     <task id="LOCAL-00001" summary="classes and objects lessons">
       <created>1533829070326</created>
@@ -1502,17 +1517,24 @@
       <option name="project" value="LOCAL" />
       <updated>1534781448682</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="serialize lesson">
+      <created>1536656823163</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1536656823163</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69864000" />
+    <option name="totallyTimeSpent" value="72836000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="14" width="1680" height="1014" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26481482" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26481482" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1521,7 +1543,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34846765" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34846765" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1553,7 +1575,8 @@
     <MESSAGE value="classes and objects lessons? static word" />
     <MESSAGE value="classes and objects lessons? heritage and interfaces" />
     <MESSAGE value="classes and objects lessons, polymorphism" />
-    <option name="LAST_COMMIT_MESSAGE" value="classes and objects lessons, polymorphism" />
+    <MESSAGE value="serialize lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="serialize lesson" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/out/production/JavaBasic/HelloWorld.class" />
@@ -1809,7 +1832,7 @@
     <entry file="file://$PROJECT_DIR$/src/serialization/WriteObject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="23" selection-end-column="9" />
+          <caret line="13" selection-start-line="13" selection-end-line="23" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1832,16 +1855,27 @@
     <entry file="file://$PROJECT_DIR$/src/serialization/ReadObject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+          <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/serialization/MassiveWriteObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="92" selection-start-line="10" selection-start-column="92" selection-end-line="10" selection-end-column="92" />
+        <state relative-caret-position="391">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basics/EqualsAndStringPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+          <folding>
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
           </folding>
         </state>
       </provider>
